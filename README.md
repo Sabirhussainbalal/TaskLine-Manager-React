@@ -24,6 +24,7 @@ To get started, you need to first clone this repository to your local machine.
 
 ```bash
 git clone https://github.com/yourusername/TaskLine-Manager-React.git
+```
 
 
 ### Step 2: Navigate to the project folder
@@ -32,6 +33,7 @@ Go to the project directory using the following command:
 
 ```bash
 cd TaskLine-Manager-React
+```
 
 ### Step 3: Install dependencies
 
@@ -39,6 +41,7 @@ Run the following command to install all the necessary dependencies:
 
 ```bash
 npm install
+```
 
 
 ### Step 4: Start the development server
@@ -47,9 +50,11 @@ After the dependencies are installed, you can start the app with:
 
 ```bash
 npm run dev
+```
 
 # This will start the development server, and you can view the app in your browser by visiting:
 ```bash
 http://localhost:5173/
+```
 
 
