@@ -52,7 +52,7 @@ After the dependencies are installed, you can start the app with:
 npm run dev
 ```
 
-# This will start the development server, and you can view the app in your browser by visiting:
+#### This will start the development server, and you can view the app in your browser by visiting:
 ```bash
 http://localhost:5173/
 ```
