@@ -27,15 +27,9 @@ git clone https://github.com/yourusername/TaskLine-Manager-React.git
 ```
 
 
-### Step 2: Navigate to the project folder
 
-Go to the project directory using the following command:
 
-```bash
-cd TaskLine-Manager-React
-```
-
-### Step 3: Install dependencies
+### Step 2: Install dependencies
 
 Run the following command to install all the necessary dependencies:
 
